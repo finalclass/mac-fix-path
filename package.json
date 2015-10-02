@@ -1,0 +1,15 @@
+{
+  "name": "mac-fix-path",
+  "main": "./lib/mac-fix-path",
+  "version": "0.0.0",
+  "description": "fix $PATH variable when running Atom from launcher",
+  "keywords": [
+  ],
+  "repository": "https://github.com/atom/mac-fix-path",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
